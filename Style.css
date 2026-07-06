@@ -1,0 +1,36 @@
+/* style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdf6f6; /* Soft, light pinkish background */
+    color: #4a4a4a;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #d63384; /* A nice feminine deep pink */
+    text-align: center;
+}
+
+ol {
+    background-color: #ffffff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+li {
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    color: #d63384;
+    text-align: center;
+    margin-top: 30px;
+}
